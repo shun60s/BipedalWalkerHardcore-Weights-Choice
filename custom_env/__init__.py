@@ -7,5 +7,5 @@ register(
 
 register(
     id='BipedalWalkerHardcoreStateout-v2',
-    entry_point='custom_env.bipedal_walker_hardcore-v2-stateout:BipedalWalkerHardcoreEdit2'
+    entry_point='custom_env.bipedal_walker_hardcore_v2_stateout:BipedalWalkerHardcoreEdit2'
 )
