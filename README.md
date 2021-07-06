@@ -20,6 +20,11 @@ python3 main.py --workers 24 --env BipedalWalkerHardcoreStateout-v2
 python3 gym_eval.py --env BipedalWalkerHardcoreStateout-v2  --num-episodes 1 --discrete-number 4
 ```
 
+  
+    
+    
+    
+BipedalWalkerHardcore_Weights_Choice_v1_Colab.ipynb　はGoogle colab上で実行する試験用のスクリプト。  
 
 
 ## 動作環境  
